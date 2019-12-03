@@ -1,0 +1,29 @@
+{
+  "zh": {
+    "message": {
+      "cart" : {
+        "product": "产品",
+        "price": "价格",
+        "campaign": "运动"
+      }
+    }
+  },
+  "en": {
+    "message": {
+      "cart" : {
+        "product": "Product",
+        "price": "Price",
+        "campaign": "Campaign"
+      }
+    }
+  },
+  "ja": {
+    "message": {
+      "cart" : {
+        "product": "商品",
+        "price": "価格",
+        "campaign": "キャンペーン"
+      }
+    }
+  }
+}
