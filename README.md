@@ -1,5 +1,9 @@
 # i18n-research
 
+vue-i18n
+https://kazupon.github.io/vue-i18n/started.html#javascript
+
+
 ## Project setup
 ```
 npm install
